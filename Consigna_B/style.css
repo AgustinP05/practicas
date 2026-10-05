@@ -1,0 +1,16 @@
+.td_nota_reprobado{
+    color: brown;
+}
+
+.td_nota_aprobado{
+    color: blue;
+}
+
+.td_nota_promocionado{
+    color:green;
+    font-weight:bold ;
+}
+
+.td_nota_ausente{
+    color: orange;
+}
